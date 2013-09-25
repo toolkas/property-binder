@@ -16,6 +16,7 @@
     <scm>
         <developerConnection>scm:git:https://github.com/toolkas/property-binder.git</developerConnection>
         <connection>scm:git:https://github.com/toolkas/property-binder.git</connection>
+        <url>https://github.com/toolkas/property-binder</url>
         <tag>HEAD</tag>
     </scm>
 
